@@ -1,8 +1,6 @@
 # PackagesMaven
 
-Android Base SDK Maven packages repository.
-
-Used by AndroidBaseSDKProject to host shared Android components.
+maven仓库
 
 ## 使用方式
 
